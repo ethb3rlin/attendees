@@ -7,8 +7,6 @@ include Eth
 
 require "json"
 
-include Eth
-
 chains = [
   {
     name: "sepolia",
